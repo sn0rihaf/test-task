@@ -1,3 +1,6 @@
 # ToDo List
-- [x] getData
-- [x] setData
+- [x] Установка Git, регистрация на GitHub
+- [x] Создание репозитория
+- [x] Создание разметки 
+- [x] Метод getData
+- [x] Метод setData
