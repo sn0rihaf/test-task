@@ -1,3 +1,3 @@
 # ToDo List
-- [ ] getData
-- [ ] setData
+- [x] getData
+- [x] setData
