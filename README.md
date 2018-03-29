@@ -1,4 +1,4 @@
-# git-intro
+# test-task
 
 Проверка работы с Git
 
